@@ -1,0 +1,4 @@
+- source: elevators.qmd
+  quarto-pub:
+    - id: 643cfe36-586e-4260-8fcc-80f3f7ac62af
+      url: 'https://quartopub.com/sites/szymanskir/elevators'
