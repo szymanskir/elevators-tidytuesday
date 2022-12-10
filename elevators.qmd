@@ -1,0 +1,13 @@
+---
+execute:
+  echo: false
+format: 
+  html:
+    page-layout: custom
+---
+
+```{r}
+#| warning: false
+source("main.R")
+map
+```
